@@ -1,7 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-28_T1w.nii.gz	2024-10-05T17:46:00	n/a	b401a973
-func/sub-28_task-persuade_run-1_bold.nii.gz	2024-10-05T17:50:59	n/a	c7452832
-func/sub-28_task-persuade_run-2_bold.nii.gz	2024-10-05T18:01:38	n/a	ffc1f68a
-func/sub-28_task-persuade_run-3_bold.nii.gz	2024-10-05T18:12:31	n/a	a583ae6c
-func/sub-28_task-persuade_run-4_bold.nii.gz	2024-10-05T18:23:11	n/a	6c0b010e
-func/sub-28_task-persuade_run-5_bold.nii.gz	2024-10-05T18:33:47	n/a	2ae46f5e
